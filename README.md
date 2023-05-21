@@ -13,7 +13,7 @@ Click Here to see [Demo](https://authentication-testing.netlify.app/).
 npm install --force
 ```
 
-This command shall install your all dev and production dependencies\
+This command shall install your all dev and production dependencies.
 
 **Note:** `User Data` for user registered and logged-in is present on localstorage.
 
