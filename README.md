@@ -4,7 +4,7 @@
 
 ### User Auth Task
 
-Click Here see [Demo](https://authentication-testing.netlify.app/).
+Click Here to see [Demo](https://authentication-testing.netlify.app/).
 
 **npm:**
 
