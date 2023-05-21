@@ -85,6 +85,17 @@ const ResAppBar = ({ classes }) => {
                   color="inherit"
                   sx={{ mr: 1, color: "white" }}
                   component={RouterLink}
+                  to="/"
+                >
+                  Home
+                </Button>
+              </ListItem>
+              <ListItem button divider>
+                {" "}
+                <Button
+                  color="inherit"
+                  sx={{ mr: 1, color: "white" }}
+                  component={RouterLink}
                   to="/register"
                 >
                   Sign Up
@@ -119,6 +130,20 @@ const ResAppBar = ({ classes }) => {
               User Auth
             </Typography>
 
+            <Typography
+              variant="subtitle1"
+              className={classes.padding}
+              color="inherit"
+            >
+              <Button
+                color="inherit"
+                sx={{ mr: 1 }}
+                component={RouterLink}
+                to="/"
+              >
+                Home
+              </Button>
+            </Typography>
             <Typography
               variant="subtitle1"
               className={classes.padding}

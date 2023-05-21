@@ -27,6 +27,7 @@ function RouteComp() {
     <Router>
       <Header />
       <Routes>
+        <Route path="/" element={<Home />} />
         <Route
           path="/register"
           element={
@@ -70,3 +71,4 @@ const Dashboard = Loadable(lazy(() => import("../pages/Dashboard")));
 const Login = Loadable(lazy(() => import("../pages/Login")));
 const ProtectedRoute = Loadable(lazy(() => import("./ProtectedRoute")));
 const Header = Loadable(lazy(() => import("../components/Header")));
+const Home = Loadable(lazy(() => import("../components/Home")));

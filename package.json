@@ -18,8 +18,6 @@
     "url": "git+https://github.com/faizaniqbalLC/search-blog-example-vs-extension.git"
   },
   "dependencies": {
-    "@emotion/react": "^11.11.0",
-    "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.12.3",
     "@mui/styles": "^5.13.1",
