@@ -1,10 +1,11 @@
 # React JS Test
 
-## Installation
-
 ### User Auth Task
 
 Click Here to see [Demo](https://authentication-testing.netlify.app/).
+
+## Installation 
+
 
 **npm:**
 
