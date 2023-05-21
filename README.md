@@ -17,7 +17,7 @@ This command shall install your all dev and production dependencies.
 
 **Note:** `User Data` for user registered and logged-in is present on localstorage.
 
-**npm:**
+**npm command for project running:**
 
 ```sh
 npm run dev
